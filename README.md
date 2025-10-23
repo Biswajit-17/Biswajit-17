@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) 
