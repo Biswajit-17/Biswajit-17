@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Biswajit
 
-![Profile Banner](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/banner.png) <!-- Optional: Add a banner image -->
+![Profile Banner](https://github.com/Biswajit-17/Biswajit-17/blob/main/banner.png)
 
 ## About Me
-- 🎓 BCA Student | Data Science & Python Enthusiast  
+- 🎓 BCA Student | Data Science Enthusiast  
 - 💻 Passionate about Python, AI, Data Analysis & DSA  
 - 🌱 Currently learning Advanced DSA, AI, and R  
-- 📫 Reach me at: [Your Email or LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 Reach me at: biswajitrk123@gmail.com (www.linkedin.com/in/biswajit-rk-330338303)
 
 ---
 
@@ -37,13 +37,13 @@
 
 ### 🔹 [AI Chatbot (RAG-based)](#)
 - Interactive chatbot using AI and document retrieval  
-- Tech: Python, OpenAI API, Streamlit  
+- Tech: Python, Gemini API, Streamlit  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Biswajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Biswajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswajit-17&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-17&layout=compact&theme=radical)
 
 ---
