@@ -21,7 +21,6 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
 
