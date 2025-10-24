@@ -18,14 +18,12 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
 
 ### ⚙️ Frameworks  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-3C2A21?style=for-the-badge&logo=graphql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
 
 ### 🧰 Tools  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -34,7 +32,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-0080FF?style=for-the-badge&logo=metasploit&logoColor=white)
 
 
----
 
 ## 📊 GitHub Stats
 
