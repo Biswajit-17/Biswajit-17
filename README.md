@@ -6,9 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 BCA student specializing in **Data Science & Artificial Intelligence**
-- 🧠 I build with **data, code, and systems** — and study how they break
-- 🤖 Working across **Machine Learning, AI applications, and Data Analysis**
-- 🔐 Actively learning **Cybersecurity, Networking, and Exploitation basics**
+- 🤖 Actively Learning **Machine Learning, AI applications, and Data Analysis**
 - 🚀 Focused on **real-world projects**, not just theory
 
 ---
@@ -46,5 +44,3 @@
 
 ---
 
-### 🎯 Direction
-Build **serious projects**, go deep into **AI, Data, and Security**, and become a **high-skill engineer**.
