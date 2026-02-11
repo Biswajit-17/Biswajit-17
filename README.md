@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Biswajit
+# Hi, I'm Biswajit
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 BCA student specializing in **Data Science & Artificial Intelligence**
-- 🤖 Actively Learning **Machine Learning, AI applications, and Data Analysis**
-- 🚀 Focused on **real-world projects**, not just theory
+## About Me
+- BCA student specializing in **Data Science & Artificial Intelligence**
+- Actively Learning **Machine Learning, AI applications, and Data Analysis**
+- Focused on **real-world projects**, not just theory
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Biswajit-17&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Biswajit-17&layout=compact&theme=radical)
