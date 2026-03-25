@@ -55,7 +55,7 @@ I'm passionate about turning data into actionable insights and building intellig
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajit17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajit-17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-17&layout=compact&theme=radical&langs_count=8"/>
 </div>
 
