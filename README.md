@@ -68,7 +68,3 @@ I'm passionate about turning data into actionable insights and building intellig
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL) -->
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajit-17&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
