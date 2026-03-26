@@ -9,9 +9,9 @@ I'm passionate about turning data into actionable insights and building intellig
 ## 🚀 About Me
 
 - 🎓 Pursuing BCA with specialization in **Data Science & Artificial Intelligence**
-- 🌱 Actively learning **Machine Learning, Deep Learning, and Advanced Analytics**
+- 🌱 Actively learning **Machine Learning and Advanced Analytics**
 - 💡 Believer in **hands-on learning** through practical projects
-- 🔍 Exploring **Cybersecurity** tools and techniques
+- 🔍 Exploring **real-world techniques** and **applications** 
 
 ---
 
