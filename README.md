@@ -2,7 +2,7 @@
 
 ### BCA Student | Data Science & AI Enthusiast | Lifelong Learner
 
-I'm passionate about turning data into actionable insights and building intelligent systems. Currently focused on **Machine Learning**, **AI applications**, and **real-world project implementation**.
+**Machine Learning and AI practitioner** with hands-on experience in **data analysis, predictive modeling, and developing real-world applications**. Proficient in **Python, data preprocessing, and model development**, with a growing focus on building scalable, data-driven solutions.
 
 ---
 
