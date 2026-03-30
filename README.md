@@ -1,6 +1,6 @@
 # Hi there, I'm Biswajit 👋
 
-### BCA Student | Data Science & AI Enthusiast | Lifelong Learner
+### BCA Student | Machine Learning & AI | Lifelong Learner
 
 **Machine Learning and AI practitioner** with hands-on experience in **data analysis, predictive modeling, and developing real-world applications**. Proficient in **Python, data preprocessing, and model development**, with a growing focus on building scalable, data-driven solutions.
 
