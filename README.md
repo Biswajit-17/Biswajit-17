@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing BCA with specialization in **Machine Learning & Artificial Intelligence**
-- 🌱 Actively learning **Machine Learning and Advanced Analytics**
+- 🌱 Actively learning **Agentic AI and Advanced Analytics**
 - 💡 Believer in **hands-on learning** through practical projects
 - 🔍 Exploring **real-world techniques** and **applications** 
 
