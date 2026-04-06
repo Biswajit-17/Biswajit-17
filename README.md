@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazr/github-readme-stats"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/biswajit-17/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-17&layout=compact&theme=radical&langs_count=8"/>
 </div>
 <div align="center">
