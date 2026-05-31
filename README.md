@@ -2,9 +2,9 @@
 
 ### ML & AI · Probably Debugging Something Right Now
 
-**Machine Learning and AI practitioner** building things at the intersection of data, models, and real-world problems — not just notebooks, but actual deployable stuff with APIs and containers.
+**Machine Learning and AI practitioner** building things at the intersection of data, models, and real-world problems, not just notebooks, but actual deployable stuff with APIs and containers.
 
-Currently deep into **Agentic AI** — teaching models to take actions, not just answer questions.
+Currently deep into **Agentic AI**, teaching models to take actions, not just answer questions.
 
 ---
 
