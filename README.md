@@ -46,7 +46,7 @@ Currently into **Agentic AI**, teaching models to take actions, not just answer 
 ## 📊 By The Numbers
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajit-17&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&hide_border=truehttps://github-readme-streak-stats.herokuapp.com/?user=Biswajit-17&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajit-17&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&hide_border=falsehttps://github-readme-streak-stats.herokuapp.com/?user=Biswajit-17&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&hide_border=false"/>
 </div>
 
 ---
