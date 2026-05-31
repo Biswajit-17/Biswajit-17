@@ -1,6 +1,6 @@
 # Hey, I'm Biswajit 👾
 
-### ML & AI · The Models Don't Train Themselves
+### ML & AI · The Models Don't Train Themselves, Might As Well Be Me
 
 **Machine Learning and AI practitioner** building things at the intersection of data, models, and real-world problems, not just notebooks, but actual deployable stuff with APIs and containers.
 
