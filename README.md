@@ -73,7 +73,3 @@ If something on my profile caught your eye, just reach out. I don't bite and I r
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajit-17&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
