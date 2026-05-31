@@ -1,21 +1,17 @@
 # Hi there, I'm Biswajit 👋
 
-### BCA Student · Machine Learning & AI · Building Data-Driven Solutions
+### BCA Student | Machine Learning & AI | Lifelong Learner | Exploring Technologies
 
-**Machine Learning and AI practitioner** with hands-on experience in **data analysis,
-predictive modeling, and deploying real-world applications**. Proficient in **Python,
-data preprocessing, and model development**, currently expanding into **Agentic AI
-and scalable ML pipelines**.
+**Machine Learning and AI practitioner** with hands-on experience in **data analysis, predictive modeling, and developing real-world applications**. Proficient in **Python, data preprocessing, and model development**, with a growing focus on building scalable, data-driven solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing BCA with specialization in **Machine Learning & Artificial Intelligence**
-- 🤖 Currently building with **LangChain, FastAPI, and vector databases** for agentic workflows
-- 📊 Passionate about turning raw data into **actionable insights** through end-to-end ML pipelines
-- 🔐 Secondary interest in **network security** — bridging data and infrastructure knowledge
-
+🎓 Pursuing BCA with specialization in **Machine Learning & Artificial Intelligence**
+🌱 Actively learning **Agentic AI and Advanced Analytics**
+💡 Believer in **hands-on learning** through practical projects
+🔍 Exploring **real-world techniques** and **applications**
 ---
 
 ## 🛠️ Tech Stack
@@ -34,17 +30,12 @@ and scalable ML pipelines**.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-**AI & Agentic Tools**
+**Tools & Technologies**
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools & Infrastructure**
-
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Data Visualization & Analytics**
 
@@ -59,22 +50,10 @@ and scalable ML pipelines**.
 
 ---
 
-## 🔨 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🔗 Project Name](https://github.com/Biswajit-17) | Brief one-line description of what it does and why it matters | Python, scikit-learn, FastAPI |
-| [🔗 Project Name](https://github.com/Biswajit-17) | Brief one-line description | Pandas, Tableau |
-| [🔗 Project Name](https://github.com/Biswajit-17) | Brief one-line description | LangChain, Docker |
-
-> 📌 *Replace these with your actual pinned repos — aim for 2–3 with a README and demo.*
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajit-17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/biswajit-17/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-17&layout=compact&theme=radical&langs_count=8"/>
 </div>
 <div align="center">
@@ -87,3 +66,6 @@ and scalable ML pipelines**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-rk-330338303/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswajitrk123@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+
+---
