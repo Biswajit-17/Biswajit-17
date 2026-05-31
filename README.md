@@ -4,7 +4,7 @@
 
 **Machine Learning and AI practitioner** building things at the intersection of data, models, and real-world problems, not just notebooks, but actual deployable stuff with APIs and containers.
 
-Currently into **Agentic AI**, teaching models to take actions, not just answer questions.
+<!--Currently into **Agentic AI**, teaching models to take actions, not just answer questions.-->
 
 ---
 
