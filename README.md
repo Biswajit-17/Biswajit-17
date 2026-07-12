@@ -68,9 +68,9 @@
 
 ## 🤝 Open To
 
-- **Collaborating** on ML/data projects — especially if they solve something real
+- **Collaborating** on ML/data projects, especially if they solve something real
 - **Talking shop** about AI agents, model deployment, or why your pipeline is on fire
-- **Learning in public** — I share what I build, including the parts that didn't work
+- **Learning in public** I share what I build, including the parts that didn't work
 
 If something on my profile caught your eye, just reach out. I don't bite and I reply fast.
 
